@@ -40,7 +40,7 @@ class _ProductCardSmallState extends State<ProductCardSmall> {
               Expanded(
                   child: ListTile(
                 title: Text(
-                  "SENNHEİSER MOMENTUM TRUEW2",
+                  "SENNHEİSER MOMENTUM",
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 11),
                 ),
                 subtitle: Text(

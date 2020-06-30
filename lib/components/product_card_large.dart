@@ -39,7 +39,7 @@ class _ProductCardLargeState extends State<ProductCardLarge> {
               Expanded(child: Image.asset("assets/images/2.png")),
               // SizedBox(height: 5),
               Text(
-                "SENNHEİSER MOMENTUM TRUEdasdksdjflşsdkfjsajldfhadsljfhasdjl",
+                "SENNHEİSER MOMENTUM",
                 textAlign: TextAlign.center,
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 10),
               ),
